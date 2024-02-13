@@ -2,4 +2,4 @@
 
 ## List
 
-[WiFi Porxy On/Off](./wifi-proxy-on-off/)
+[WiFi Proxy On/Off](./wifi-proxy-on-off/)
